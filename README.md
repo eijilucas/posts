@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/eijilucas/restapi-mongodb/blob/main/LICENSE) 
 
 # Sobre o projeto
-API em Java utilizando Spring e MongoDB
+API em Java utilizando Spring para a contrução base da API e MongoDB como banco de dados.
 
 # Tecnologias utilizadas
 
