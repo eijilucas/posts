@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/eijilucas/restapi-mongodb/blob/main/LICENSE) 
 
 # Sobre o projeto
-Aplicação de consulta de posts com usuários e comentários vinculados a usuários utilizando Spring e MongoDB
+Aplicação de consulta de posts com usuários e comentários vinculados utilizando Spring e MongoDB
 
 # Funcionamento
 ![Tela Funcionamento](https://github.com/eijilucas/assets/blob/main/imagem_2024-01-31_192626808.png)
