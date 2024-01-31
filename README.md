@@ -4,6 +4,9 @@
 # Sobre o projeto
 Aplicação de consulta de posts com usuários e comentários vinculados a usuários utilizando Spring e MongoDB
 
+# Funcionamento
+![Tela Funcionamento](https://github.com/eijilucas/assets/blob/main/imagem_2024-01-31_192626808.png)
+
 # Tecnologias utilizadas
 
 ## Back end
